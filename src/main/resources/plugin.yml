@@ -1,0 +1,5 @@
+name: Cosmetics
+description: Lustige Cosmetics sind lustig für jedermann
+version: 1.0.0
+api: 2.0.0
+main: net.lldv.pydow.cosmetics.Cosmetics
